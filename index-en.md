@@ -20,6 +20,6 @@
 
 ---
 
-**You can visit [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true) to get a list of my articles.**
+**It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).**
 
 ---
