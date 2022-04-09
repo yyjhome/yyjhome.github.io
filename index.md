@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to Yingjie's Pages
 
 You can use the [editor on GitHub](https://github.com/yyjhome/yyjhome.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### 教育背景
+1. 2016年9月–2020年12月，理学博士，理论物理专业，华中科技大学
+2. 2013年9月–2016年6月，理学硕士，天体物理专业，北京师范大学
+3. 2009年9月–2013月6月，理学学士，物理学基地班，华中师范大学
 
-# Header 1
-## Header 2
-### Header 3
+### 研究方向
+- 标准宇宙学的理论及其观测检验
+- 宇宙加速膨胀的暗能量机制
+- 哈勃常数危机及宇宙曲率问题
+- 引力波标准汽笛
 
-- Bulleted
-- List
+### 荣誉奖励
+- 华中科技大学一等博士学业奖学金
+- 北京师范大学学业一等奖学金
+- 华中师范大学推荐免试研究生
 
-1. Numbered
-2. List
+### 讲授课程
+- 高等数学
+- 大学物理 
 
-**Bold** and _Italic_ and `Code` text
+### 项目研究
+- 国家自然科学基金面上项目，No.11875136，标量-张量宇宙学及引力波，参与
+- 国家自然科学基金重大研究计划, No.11690021，引力波和宇宙演化，参与
+- 国家自然科学基金面上项目，No.11775086，新物理中束缚态及其加速器唯像研究，参与
 
-[Link](url) and ![Image](src)
-```
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yyjhome/yyjhome.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 公司/学校/研究所（2017.9~至今）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
