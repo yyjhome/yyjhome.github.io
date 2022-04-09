@@ -20,7 +20,7 @@
 
 ---
 
-You can visit the [Inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true) to get a list of my articles.
+**You can visit [Inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true) to get a list of my articles.**
 
 杨英杰，男，南方医科大学教师，理论物理博士，1993年出生于湖北孝感，已婚，中共党员。
 
