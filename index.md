@@ -55,7 +55,7 @@ You can visit the [Inspirehep](https://inspirehep.net/authors/1804682?ui-citatio
 - 华中师范大学推荐免试研究生
 
 ### 文章列表
-1. **Yingjie Yang**，Xucheng Lu, Lei Qian, Shulei Cao，“Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension”， [arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
+1. **Yingjie Yang**，Xucheng Lu, Lei Qian, Shulei Cao，“Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension”，[arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
 2. **Yingjie Yang**, Yungui Gong, “Measurement on the cosmic curvature using the Gaussian process method”, [MNRAS 504, 3092–3097 (2021)](https://doi.org/10.1093/mnras/stab1085)
 3. **Yingjie Yang**, Yungui Gong, “The evidence of cosmic acceleration and observational constraints”, [JCAP 06 (2020) 059](https://doi.org/10.1088/1475-7516/2020/06/059)
 4. Qin Fei, Zhu Yi, **Yingjie Yang**, “The Reconstruction of Non-Minimal Derivative Coupling Inflationary Potentials ”, [Universe 2020, 6, 213](https://doi.org/10.3390/universe6110213)
