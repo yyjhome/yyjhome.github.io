@@ -1,10 +1,9 @@
 ## Welcome to Yingjie's Pages
 
-You can use the [editor on GitHub](https://github.com/yyjhome/yyjhome.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
+You can visit the [Inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true) to get a list of my articles.
 ---
 
-杨英杰，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
+杨英杰，男，南方医科大学教师，理论物理博士，1993年出生于湖北孝感，已婚，中共党员。
 
 ---
 
@@ -12,9 +11,9 @@ You can use the [editor on GitHub](https://github.com/yyjhome/yyjhome.github.io/
 - 2021年9月至今，南方医科大学，数学物理系，讲师
 
 ### 教育背景
-1. 2016年9月–2020年12月，理学博士，理论物理专业，华中科技大学
-2. 2013年9月–2016年6月，理学硕士，天体物理专业，北京师范大学
-3. 2009年9月–2013月6月，理学学士，物理学基地班，华中师范大学
+- 2016年9月–2020年12月，理学博士，理论物理专业，华中科技大学
+- 2013年9月–2016年6月，理学硕士，天体物理专业，北京师范大学
+- 2009年9月–2013月6月，理学学士，物理学基地班，华中师范大学
 
 ### 研究方向
 - 标准宇宙学的理论及其观测检验
@@ -27,12 +26,14 @@ You can use the [editor on GitHub](https://github.com/yyjhome/yyjhome.github.io/
 - 大学物理 
 
 ### 项目研究
-- 国家自然科学基金面上项目，No.11875136，标量-张量宇宙学及引力波，参与
-- 国家自然科学基金重大研究计划, No.11690021，引力波和宇宙演化，参与
-- 国家自然科学基金面上项目，No.11775086，新物理中束缚态及其加速器唯像研究，参与
+1. 国家自然科学基金面上项目，No.11875136，标量-张量宇宙学及引力波，参与
+2. 国家自然科学基金重大研究计划, No.11690021，引力波和宇宙演化，参与
+3. 国家自然科学基金面上项目，No.11775086，新物理中束缚态及其加速器唯像研究，参与
 
 ### 荣誉奖励
 - 华中科技大学一等博士学业奖学金
 - 北京师范大学学业一等奖学金
 - 华中师范大学推荐免试研究生
+
+### 文章列表
 
