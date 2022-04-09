@@ -1,3 +1,5 @@
+## Welcome to Yingjie's homepage
+
 <div>
 <table border="0">
   <tr>
@@ -15,8 +17,6 @@
   </tr>
 </table>
 </div>
-
-## Welcome to Yingjie's homepage
 
 ---
 
