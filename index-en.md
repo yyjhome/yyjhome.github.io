@@ -2,15 +2,15 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Zhang San</h1>
-      <p><b>Master</b></p>
-      <p><b>College of ××, ×× University</b></p>
-      <p><b>E-mail：1234567789@qq.com</b></p>
-      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
+      <h1>Yingjie Yang</h1>
+      <p><b>Lecture, Master's supervisor</b></p>
+      <p><b>Department of Mathematics and Physics, Southern Medical University</b></p>
+      <p><b>E-mail：yyj[AT]smu.edu.cn</b></p>
+      <p><b>Address：Southern Medical University, Shatai North Road, Guangzhou, Postcode 510515, China</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/yyj.jpg" width="100%">
     </td>
   </tr>
 </table>
