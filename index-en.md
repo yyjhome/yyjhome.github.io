@@ -5,7 +5,7 @@
   <tr>
     <td>
       <h1>Yingjie Yang</h1>
-      <p><b>Lecture, Master's supervisor</b></p>
+      <p><b>Lecturer, Master's Supervisor</b></p>
       <p><b>Department of Mathematics and Physics, Southern Medical University</b></p>
       <p><b>E-mail：yyj[AT]smu.edu.cn</b></p>
       <p><b>Address：Southern Medical University, Shatai North Road, Guangzhou, Postcode 510515, China</b></p>
