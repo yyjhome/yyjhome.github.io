@@ -55,9 +55,9 @@
 - 华中师范大学推荐免试研究生
 
 ### 文章列表
-1. **Yingjie Yang**，Xuchen Lu, Lei Qian, Shulei Cao，“Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension”，[arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
-2. **Yingjie Yang**, Yungui Gong, “Measurement on the cosmic curvature using the Gaussian process method”, [MNRAS 504, 3092–3097 (2021)](https://doi.org/10.1093/mnras/stab1085)
-3. **Yingjie Yang**, Yungui Gong, “The evidence of cosmic acceleration and observational constraints”, [JCAP 06 (2020) 059](https://doi.org/10.1088/1475-7516/2020/06/059)
-4. Qin Fei, Zhu Yi, **Yingjie Yang**, “The Reconstruction of Non-Minimal Derivative Coupling Inflationary Potentials ”, [Universe 2020, 6, 213](https://doi.org/10.3390/universe6110213)
-5. **杨英杰**，张同杰 . “哈勃参量限制宇宙学模型的优势”，《北京师范大学学报（自然科学版）》.2016-04 52(2)。
-6. 曹树磊，**杨英杰**，张同杰 . “哈勃参量限制宇宙的 Backreaction 效应”，《北京师范大学学报（自然科学版）》.2017-04 53(2)。
+1. **Yingjie Yang**，Xuchen Lu, Lei Qian, Shulei Cao. Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension. [arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
+2. **Yingjie Yang**, Yungui Gong. Measurement on the cosmic curvature using the Gaussian process method. [MNRAS 504, 3092–3097 (2021)](https://doi.org/10.1093/mnras/stab1085)
+3. **Yingjie Yang**, Yungui Gong. The evidence of cosmic acceleration and observational constraints. [JCAP 06 (2020) 059](https://doi.org/10.1088/1475-7516/2020/06/059)
+4. Qin Fei, Zhu Yi, **Yingjie Yang**. The Reconstruction of Non-Minimal Derivative Coupling Inflationary Potentials. [Universe 2020, 6, 213](https://doi.org/10.3390/universe6110213)
+5. **杨英杰**，张同杰. 哈勃参量限制宇宙学模型的优势. 《北京师范大学学报（自然科学版）》.2016-04 52(2)。
+6. 曹树磊，**杨英杰**，张同杰. 哈勃参量限制宇宙的 Backreaction 效应. 《北京师范大学学报（自然科学版）》.2017-04 53(2)。
