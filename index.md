@@ -36,21 +36,21 @@ Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in th
 - 2009-09 to 2013-06, Bachelor of Science in Physics, Central China Normal University
 
 ### Research Interests
-- 宇宙学模型及其观测检验
-- 宇宙加速膨胀的暗能量机制
-- 哈勃常数危机及宇宙曲率问题
-- 引力波标准汽笛
+- Cosmology
+- Dark Energy, Cosmic curvature
+- Hubble tension
+- Gravitational wave standard siren
 
 ### Teaching
-- 高等数学
-- 大学物理 
+- Fundamental Physics
+- Advanced Mathematics
 
 ### Research Projects
-1. 国家自然科学基金面上项目，No.11875136，标量-张量宇宙学及引力波，参与
-2. 国家自然科学基金重大研究计划, No.11690021，引力波和宇宙演化，参与
-3. 国家自然科学基金面上项目，No.11775086，新物理中束缚态及其加速器唯像研究，参与
+1. National Natural Science Foundation of China, No.11875136, Scalar-Tensor Cosmology and Gravitational Waves, participant
+2. National Natural Science Foundation of China, No.11690021，Gravitational waves and cosmic evolution，participant
+3. National Natural Science Foundation of China，No.11775086，The study of bound states and accelerator phenomenological in new physics，participant
 
-### Academic Services
+### Membership and service
 - Member of Gravitation and Relativistic Astrophysics, Chinese Physical Society
 
 ### Honors
