@@ -21,6 +21,8 @@
 ---
 
 **文章列表 [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).**
+
 **谷歌学术 [Scholar](https://scholar.google.com/citations?hl=en&user=y8i38QsAAAAJ).**
 
+究天人之际，通古今之变，成一家之言。
 ---
