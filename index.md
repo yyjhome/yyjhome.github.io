@@ -10,7 +10,7 @@
       <p><b>Health: Excellent</b></p>
       <p><b>Email：yyj[AT]smu.edu.cn</b></p>
       <p><b>Location：Southern Medical University, Shatai North road, Guangzhou, Guangdong, Postcode 510515</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <p><a href="/index-en.html">Chinese Version</a></p>
     </td>
     <td width="25%">
       <img src="/yyj.jpg" width="100%">
@@ -54,10 +54,10 @@ Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in th
 - Member of Gravitation and Relativistic Astrophysics, Chinese Physical Society
 
 ### Honors
-- 南方医科大学生物医学工程学院第六届教学竞赛第3名
-- 华中科技大学一等博士学业奖学金
-- 北京师范大学学业一等奖学金
-- 华中师范大学推荐免试研究生
+- Third Prize of Teaching Competition in School of Biomedical Engneering, SMU
+- First Class Doctoral Scholarship in HUST
+- First Class Scholarship in BNU
+- Recommends exempt graduate student in CCNU
 
 ### Publications
 1. **Yingjie Yang**，Xuchen Lu, Lei Qian, Shulei Cao. Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension. [arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
