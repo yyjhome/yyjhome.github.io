@@ -4,12 +4,12 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Yingjie Yang</h1>
-      <p><b>Tenure, Master's Supervisor</b></p>
-      <p><b>Department of Mathematics and Physics, Southern Medical University</b></p>
-      <p><b>E-mail：yyj[AT]smu.edu.cn</b></p>
-      <p><b>Address：Southern Medical University, Shatai North Road, Guangzhou, Postcode 510515, China</b></p>
-      <a href="/index.html">中文版</a>
+      <h1>杨英杰</h1>
+      <p><b>讲师</b></p>
+      <p><b>南方医科大学，生物医学工程学院，数学物理系</b></p>
+      <p><b>邮箱：yyj[AT]smu.edu.cn</b></p>
+      <p><b>地址：广州市白云区沙太南路1023号，南方医科大学</b></p>
+      <a href="/index.html">English Vision</a>
     </td>
     <td width="25%">
       <img src="/yyj.jpg" width="100%">
@@ -20,6 +20,7 @@
 
 ---
 
-**It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).**
+**文章列表 [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).**
+**谷歌学术 [Scholar](https://scholar.google.com/citations?hl=en&user=y8i38QsAAAAJ).**
 
 ---
