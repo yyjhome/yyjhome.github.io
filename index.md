@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Name: Yingjie Yang</h1>
+      <h1>Yingjie Yang</h1>
       <p><b>Gender: Male</b></p>
       <p><b>Date of Birth: July, 1993 at Hubei</b></p>
       <p><b>Health: Excellent</b></p>
