@@ -9,7 +9,7 @@
       <p><b>Date of Birth: July, 1993 at Hubei</b></p>
       <p><b>Health: Excellent</b></p>
       <p><b>Email：yyj[AT]smu.edu.cn</b></p>
-      <p><b>Location：Shatai North road, Guangzhou, Guangdong, Postcode 510515</b></p>
+      <p><b>Location：Southern Medical University, Shatai North road, Guangzhou, Guangdong, Postcode 510515</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
@@ -23,17 +23,17 @@
 
 > It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
 
-Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in the Department of Methematics and Physics at Southern Medical University, Guangzhou China. I am a Kopite (Keep Red and Never Walk Alone).
+Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in the Department of Mathematics and Physics at Southern Medical University, Guangzhou China. I am a Kopite (Keep Red and Never Walk Alone).
 
 ---
 
 ### Employment
-- 2021年9月至今，南方医科大学，数学物理系，讲师
+- 2021-09 to present, Assistant Professor, Southern Medical University.
 
 ### Education
-- 2016年9月–2020年12月，理学博士，理论物理专业，华中科技大学
-- 2013年9月–2016年6月，理学硕士，天体物理专业，北京师范大学
-- 2009年9月–2013月6月，理学学士，物理学基地班，华中师范大学
+- 2016-09 to 2020-12, Ph.D. in Theoretical Physics, Huazhong University of Science and Technology
+- 2013-09 to 2016-06, Master Degree in Astrophysics, Beijing Normal University
+- 2009-09 to 2013-06, Bachelor of Science in Physics, Central China Normal University
 
 ### Research Interests
 - 宇宙学模型及其观测检验
