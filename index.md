@@ -9,7 +9,7 @@
       <p><b>Date of Birth: July, 1993 at Hubei</b></p>
       <p><b>Health: Excellent</b></p>
       <p><b>Email：yyj[AT]smu.edu.cn</b></p>
-      <p><b>Location：Southern Medical University, Shatai North road, Guangzhou, Guangdong, Postcode 510515</b></p>
+      <p><b>Location：Southern Medical University, Shatai North road, Guangzhou, Guangdong, Postcode 510515, China</b></p>
       <p><a href="/index-en.html">Chinese Version</a></p>
     </td>
     <td width="25%">
