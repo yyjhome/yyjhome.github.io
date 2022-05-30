@@ -23,7 +23,7 @@
 
 > It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
 
-Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in the Department of Mathematics and Physics at Southern Medical University, Guangzhou China. I am a Kopite (Keep Red and Never Walk Alone).
+Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in the Department of Mathematics and Physics at Southern Medical University, Guangzhou, China. I am a Kopite (Keep Red and Never Walk Alone).
 
 ---
 
