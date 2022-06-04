@@ -47,8 +47,8 @@ Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in th
 
 ### Research Projects
 1. National Natural Science Foundation of China, No.11875136, Scalar-Tensor Cosmology and Gravitational Waves, participant
-2. National Natural Science Foundation of China, No.11690021，Gravitational waves and cosmic evolution，participant
-3. National Natural Science Foundation of China，No.11775086，The study of bound states and accelerator phenomenological in new physics，participant
+2. National Natural Science Foundation of China, No.11690021，Gravitational waves and cosmic evolution, participant
+3. National Natural Science Foundation of China, No.11775086，The study of bound states and accelerator phenomenological in new physics, participant
 
 ### Membership and service
 - Member of Gravitation and Relativistic Astrophysics, Chinese Physical Society
