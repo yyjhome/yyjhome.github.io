@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a high-level thinker, focusing on strategy and implementation. I have experience in business planning, work-flow development, product design, services design, project management, business analytics, and the planning of organizational structures. I have worked in the retail, education and training, and nonprofit sectors. I have also worked with archives and libraries.
+
+Many of my projects have revolved around the use-of or development-of information based products, necessitating skills in data management and life-cycle process design and life-cycle management. I have worked as team lead and on distributed teams. I seek out collaborations with subject-matter experts to create collaborative creative works with broad impacts. To add spice to the mixture, I often seek out technical collaborations in minority language or script contexts or collaborations where contract law and legal frameworks require thoughtful consideration.
+
 > It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
 
 A data-driven personal website
