@@ -85,10 +85,10 @@ author:
   bio              : " Assistant Professor (讲师/助理教授) in Southern Medical University"
   location         : " Guangzhou 510515, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=y8i38QsAAAAJ&hl=en"
   email            : "yyj@smu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yingjie-Yang-8"
   uri              :
   bitbucket        :
   codepen          :
