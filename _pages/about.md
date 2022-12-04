@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Yingjie Yang** was born in Hubei, China, in 1993. He received the B.Sc. degree in Physics from Central China Normal University in 2013, the Master degree in Astrophysics from Beijing Normal University in 2016, and Ph.D. degree in Theoretical Physics from Huazhong University of Science and Technology in 2020, respectively.
+**Yingjie Yang** was born in Hubei, China, in 1993. I received the B.Sc. degree in Physics from Central China Normal University in 2013, the Master degree in Astrophysics from Beijing Normal University in 2016, and Ph.D. degree in Theoretical Physics from Huazhong University of Science and Technology in 2020, respectively.
 
-In 2021, he joined the Department of Department of Mathematics and Physics, Southern Medical University, as a Assistant Professor. 
-His current research interests include:
+In 2021, I joined the Department of Department of Mathematics and Physics, Southern Medical University, as a Assistant Professor. 
+My current research interests include:
 - Gravitation and Cosmology
 - Dark Energy
 - Hubble tension
 - Gravitational wave standard siren
 
-He is a Communist and KOP (Keep Red and Never Walk Alone).
+I am a Communist and KOP (Keep Red and Never Walk Alone).
 
 Membership and service
 ======
