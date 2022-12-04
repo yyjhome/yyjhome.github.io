@@ -25,4 +25,4 @@ Membership and service
 
 For more info
 ------
-> More info about academic articles in physics can be found in [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
+> More information about academic articles in physics can be found in [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
