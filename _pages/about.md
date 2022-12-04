@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a high-level thinker, focusing on strategy and implementation. I have experience in business planning, work-flow development, product design, services design, project management, business analytics, and the planning of organizational structures. I have worked in the retail, education and training, and nonprofit sectors. I have also worked with archives and libraries.
+**Yingjie Yang** was born in Hubei, China, in 1993. He received the B.Sc. degree in Physics from Central China Normal University in 2013, the Master degree in Astrophysics from Beijing Normal University in 2016, and Ph.D. degree in Theoretical Physics from Huazhong University of Science and Technology in 2020, respectively.
+
+In 2021, he joined the Department of Department of Mathematics and Physics, Southern Medical University, as a Assistant Professor. 
+His current research interests include:
+- Gravitation and Cosmology
+- Dark Energy
+- Hubble tension
+- Gravitational wave standard siren
+
+> It is a convenient way to get a list of articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
 
 Communist and KOP.
-
-> It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
 
 A data-driven personal website
 ======
