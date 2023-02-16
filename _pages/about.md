@@ -10,7 +10,7 @@ redirect_from:
 
 **Yingjie Yang** was born in Hubei, China, in 1993. I received the B.Sc. degree in Physics from Central China Normal University in 2013, the Master degree in Astrophysics from Beijing Normal University in 2016, and Ph.D. degree in Theoretical Physics from Huazhong University of Science and Technology in 2020, respectively.
 
-In 2021, I joined the Department of Department of Mathematics and Physics, Southern Medical University, as a Assistant Professor. 
+In 2021, I joined the Department of Department of Mathematics and Physics, Southern Medical University, as an Assistant Professor. 
 My current research interests include:
 - Gravitation and Cosmology
 - Dark Energy
