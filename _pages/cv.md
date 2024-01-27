@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Central China Normal University, 2013
+* M.S. in Astrophysics, Beijing Normal University, 2016
+* Ph.D in Theoretical Physics, Huazhong University of Science and Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Assistant Professor
+  * Southern Medical University
+  * Duties included: Teaching and Scientific Research
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Fundings
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* National Natural Science Foundation of China, Youth Program, No.12305066, 2024.01--2026.12
+* Science and Technology Program of Guangzhou, No.2023A04J1313, 2023.04--2025.03
 
 Publications
 ======
