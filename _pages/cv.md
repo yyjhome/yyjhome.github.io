@@ -21,7 +21,7 @@ Work experience
   * Southern Medical University
   * Duties included: Teaching and Scientific Research
   
-Fundings
+Funding
 ======
 * National Natural Science Foundation of China, Youth Program, No.12305066, 2024.01--2026.12
 * Science and Technology Program of Guangzhou, No.2023A04J1313, 2023.04--2025.03
