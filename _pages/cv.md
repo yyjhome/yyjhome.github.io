@@ -20,11 +20,6 @@ Work experience
 * Summer 2021: Assistant Professor
   * Southern Medical University
   * Duties included: Teaching and Scientific Research
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Fundings
 ======
