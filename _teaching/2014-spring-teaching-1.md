@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Atomic and Nuclear Physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Southern Medical University"
+date: From 2023 to Now
 location: "City, Country"
 ---
 
