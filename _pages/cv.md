@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Central China Normal University, 2013
 * M.S. in Astrophysics, Beijing Normal University, 2016
-* Ph.D in Theoretical Physics, Huazhong University of Science and Technology, 2020
+* Ph.D. in Theoretical Physics, Huazhong University of Science and Technology, 2020
 
 Work experience
 ======
