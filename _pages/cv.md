@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Summer 2021: Assistant Professor
+* 2021.09--2024.12: Assistant Professor
+* 2025.01--Now: Assistant Professor
   * Southern Medical University
   * Duties included: Teaching and Scientific Research
   
