@@ -46,8 +46,8 @@ I am an Associate Professor (副教授) in the Department of Mathematics and Phy
 - Advanced Mathematics
 
 ### Research Projects
-- National Natural Science Foundation of China, Youth Program, No.12305066, principal
-- Science and Technology Program of Guangzhou, No.2023A04J1313, principal
+- National Natural Science Foundation of China, Youth Program, No.12305066, principal investigator
+- Science and Technology Program of Guangzhou, No.2023A04J1313, principal investigator
 - National Natural Science Foundation of China, No.11875136, Scalar-Tensor Cosmology and Gravitational Waves, participant
 - National Natural Science Foundation of China, No.11690021，Gravitational waves and cosmic evolution, participant
 - National Natural Science Foundation of China, No.11775086，The study of bound states and accelerator phenomenological in new physics, participant
