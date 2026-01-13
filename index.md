@@ -21,14 +21,13 @@
 
 ---
 
-> It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true).
-
-Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in the Department of Mathematics and Physics at Southern Medical University, Guangzhou, China. I am a Kopite (Keep Red and Never Walk Alone).
+I am an Associate Professor (副教授) in the Department of Mathematics and Physics at Southern Medical University, Guangzhou, China. I am a Kopite (Keep Red and Never Walk Alone).
 
 ---
 
 ### Employment
-- 2021-09 to present, Assistant Professor, Southern Medical University.
+- 2025-01 to prensent, Associate Professor, Southern Medical University.
+- 2021-09 to 2024-12, Assistant Professor, Southern Medical University.
 
 ### Education
 - 2016-09 to 2020-12, Ph.D. in Theoretical Physics, Huazhong University of Science and Technology
@@ -42,6 +41,7 @@ Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in th
 - Gravitational wave standard siren
 
 ### Teaching
+- Atomic Physics
 - Fundamental Physics
 - Advanced Mathematics
 
@@ -60,9 +60,4 @@ Since September 1, 2021, I am an Assistant Professor (讲师/助理教授) in th
 - Recommends exempt graduate student in CCNU
 
 ### Publications
-1. **Yingjie Yang**，Xuchen Lu, Lei Qian, Shulei Cao. Potentialities of Hubble parameter and expansion rate function data to alleviate Hubble tension. [arXiv:2204.01020](https://arxiv.org/abs/2204.01020)
-2. **Yingjie Yang**, Yungui Gong. Measurement on the cosmic curvature using the Gaussian process method. [MNRAS 504, 3092–3097 (2021)](https://doi.org/10.1093/mnras/stab1085)
-3. **Yingjie Yang**, Yungui Gong. The evidence of cosmic acceleration and observational constraints. [JCAP 06 (2020) 059](https://doi.org/10.1088/1475-7516/2020/06/059)
-4. Qin Fei, Zhu Yi, **Yingjie Yang**. The Reconstruction of Non-Minimal Derivative Coupling Inflationary Potentials. [Universe 2020, 6, 213](https://doi.org/10.3390/universe6110213)
-5. **Yingjie Yang**, Tongjie Zhang. Advantages of Hubble parameter to determine cosmological model. 《Jouranal of Beijing Normal University （Natural Science）》.2016-04 52(2)。
-6. Shulei Cao，**Yingjie Yang**，Tongjie Zhang. Constraining backreaction effects with observational Hubble parameter data. 《Jouranal of Beijing Normal University （Natural Science）》.2017-04 53(2)。
+> It is a convenient way to get a list of my articles by visiting [inspirehep](https://inspirehep.net/authors/1804682?ui-citation-summary=true) and [google scholar](https://scholar.google.com/citations?hl=en&user=y8i38QsAAAAJ).
