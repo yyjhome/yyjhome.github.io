@@ -27,7 +27,7 @@ I am an Associate Professor (副教授) in the Department of Mathematics and Phy
 
 ### Employment
 - 2025-01 to prensent, Associate Professor, Southern Medical University.
-- 2021-09 to 2024-12, Assistant Professor, Southern Medical University.
+- 2021-09 to 2024-12, Lecturer, Southern Medical University.
 
 ### Education
 - 2016-09 to 2020-12, Ph.D. in Theoretical Physics, Huazhong University of Science and Technology
